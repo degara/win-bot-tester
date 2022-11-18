@@ -1,1 +1,1 @@
-# win-bot-tester
+# winbot-tester

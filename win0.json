@@ -1,0 +1,64 @@
+{
+  "teamdata": [
+    {
+      "id": 1,
+      "name": "EQUIPO AA",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ARENAL+",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CRUCE DE BANDERAS",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 4,
+      "name": "LUNERA",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 5,
+      "name": "DEGARA",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 6,
+      "name": "CODEPIRINHA",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 7,
+      "name": "JSLOVERS",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 8,
+      "name": "BUGABIT",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 9,
+      "name": "LOS PIBES DEL FONDO",
+      "actividades": [
+      ]
+    },
+    {
+      "id": 10,
+      "name": "VALLE SILICONA",
+      "actividades": [
+      ]
+    }
+  ]
+}
